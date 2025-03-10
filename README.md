@@ -1,1 +1,1 @@
-# FIFA_World_Cup
+# This Repository is for guided projects. It is essentially meant for Practice.
